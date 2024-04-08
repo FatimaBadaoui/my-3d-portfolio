@@ -1,5 +1,7 @@
 <h1 style="color:#ff00ff">Fatima's 3D Personal Portfolio</h1>
 
+[Live Demo](https://my-3d-portfolio-mu.vercel.app/)
+
 This is a personal portfolio showcasing my projects and skills. The portfolio is built using Next.js, Three.js, React, JSX, and Tailwind CSS.
 
 <h2 style="color:#c0c0c0">Tools Used 🧰</h2>
