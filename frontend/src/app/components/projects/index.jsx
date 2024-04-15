@@ -32,7 +32,7 @@ const ProjectList = ({ projects }) => {
       <h1
         className={clsx(
           hennyPenny.variable,
-          "text-accent text-5xl sm:text-6xl md:text-7xl font-henny"
+          "text-accent text-5xl sm:text-6xl md:text-7xl font-henny mb-6"
         )}
       >
         Projects

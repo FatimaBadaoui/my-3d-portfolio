@@ -18,29 +18,33 @@ export const projectsData = [
     description: "Personal portfolio website. Built with only HTML and CSS.",
     date: "2023-09-29",
     demoLink: "https://fatimabadaoui.github.io/my-portfolio/",
+    codeLink: "https://github.com/FatimaBadaoui/my-portfolio",
   },
   {
     id: 2,
     name: "RPG Game",
     description: "Role-playing game built with JavaScript.",
     date: "2023-12-12",
-    demoLink: "https://github.com/FatimaBadaoui/javascript-project-rpg-game",
+    demoLink: null,
+    codeLink: "https://github.com/FatimaBadaoui/javascript-project-rpg-game",
   },
   {
     id: 3,
     name: "The Projects",
     description:
       "A collection of projects built with HTML, CSS, and Vanilla JavaScript.",
-    date: "2022-09-10",
+    date: "2023-09-10",
     demoLink: "https://pilag6.github.io/the-projects/",
+    codeLink: "https://github.com/FatimaBadaoui/the-projects",
   },
   {
     id: 4,
     name: "React Games",
     description:
       "A single-page application with multiple games built with React.",
-    date: "2022-05-30",
+    date: "2023-05-30",
     demoLink: "https://react-games-spa.onrender.com/",
+    codeLink: "https://github.com/FatimaBadaoui/react-games-spa",
   },
 ];
 
