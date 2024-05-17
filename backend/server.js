@@ -13,6 +13,10 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+app.get("/", (req, res) => {
+  res.send("Welcome to Email Sender API");
+});
+
 app.post("/", emailValidation(), validate, async (req, res) => {
   try {
     const { name, email, message } = req.body;
