@@ -35,7 +35,10 @@ export default function Form() {
 
     const postMessage = async () => {
       try {
-        const req = await axios.post("http://localhost:5555", data);
+        const req = await axios.post(
+          "https://my-3d-portfolio-server.onrender.com",
+          data
+        );
         console.log(req);
         setSuccess(true);
         setTimeout(() => {
@@ -128,7 +131,9 @@ export default function Form() {
           role="success"
         >
           <p class="font-bold">Spell cast successfully!</p>
-          <p>A reply shall materialize with the quickness of a brewing potion.</p>
+          <p>
+            A reply shall materialize with the quickness of a brewing potion.
+          </p>
         </div>
       )}
       {error && (
