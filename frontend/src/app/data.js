@@ -42,9 +42,18 @@ export const projectsData = [
     name: "React Games",
     description:
       "A single-page application with multiple games built with React.",
-    date: "2023-05-30",
+    date: "2024-05-30",
     demoLink: "https://react-games-spa.onrender.com/",
     codeLink: "https://github.com/FatimaBadaoui/react-games-spa",
+  },
+  {
+    id: 5,
+    name: "Restaurant Management System",
+    description:
+      "A full stack project designed to create a mobile application for restaurant workers. The app aims to simplify, accelerate, and digitalize their tasks.",
+    date: "2024-07-04",
+    demoLink: null,
+    codeLink: "https://github.com/chimikoo/TapTrack",
   },
 ];
 
