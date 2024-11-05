@@ -35,7 +35,7 @@ export const projectsData = [
       "A collection of projects built with HTML, CSS, and Vanilla JavaScript.",
     date: "2023-09-10",
     demoLink: "https://pilag6.github.io/the-projects/",
-    codeLink: "https://github.com/FatimaBadaoui/the-projects",
+    codeLink: "https://github.com/Pilag6/the-projects",
   },
   {
     id: 4,
@@ -48,21 +48,21 @@ export const projectsData = [
   },
   {
     id: 5,
-    name: "The Projects",
-    description:
-      "JavaScript Projects for mastering the art of web development through hands-on practice with Vanilla JavaScript!.",
-    date: "2024-06-15",
-    demoLink: "https://pilag6.github.io/the-projects/",
-    codeLink: "https://github.com/Pilag6/the-projects",
-  },
-  {
-    id: 6,
     name: "Restaurant Management System",
     description:
       "A full stack project designed to create a mobile application for restaurant workers. The app aims to simplify, accelerate, and digitalize their tasks.",
     date: "2024-07-04",
     demoLink: null,
     codeLink: "https://github.com/chimikoo/TapTrack",
+  },
+  {
+    id: 6,
+    name: "GoPool",
+    description:
+      "An App for car pooling from and to airport done with React Native and Expo.",
+    date: "2024-09-16",
+    demoLink: "https://gopool.app/",
+    codeLink: null,
   },
 ];
 
