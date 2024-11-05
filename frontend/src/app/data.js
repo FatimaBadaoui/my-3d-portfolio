@@ -62,7 +62,7 @@ export const projectsData = [
       "An App for car pooling from and to airport done with React Native and Expo.",
     date: "2024-09-16",
     demoLink: "https://gopool.app/",
-    codeLink: null,
+    codeLink: "https://gopool.app/",
   },
 ];
 
